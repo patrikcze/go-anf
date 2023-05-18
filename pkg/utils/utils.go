@@ -15,7 +15,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/Azure-Samples/netappfiles-go-sdk-sample/netappfiles-go-sdk-sample/internal/models"
+	"github.com/patrikcze/go-anf/pkg/models"
 	"golang.org/x/term"
 )
 

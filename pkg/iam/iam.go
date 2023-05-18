@@ -16,10 +16,11 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/Azure-Samples/netappfiles-go-sdk-sample/netappfiles-go-sdk-sample/internal/models"
-	"github.com/Azure-Samples/netappfiles-go-sdk-sample/netappfiles-go-sdk-sample/internal/utils"
+	"github.com/patrikcze/go-anf/pkg/models"
+
 	"github.com/Azure/azure-sdk-for-go/sdk/azcore"
 	"github.com/Azure/azure-sdk-for-go/sdk/azidentity"
+	"github.com/patrikcze/go-anf/pkg/utils"
 )
 
 // GetAuthorizer gets an authorization token to be used within ANF client
