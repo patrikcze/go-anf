@@ -2,3 +2,4 @@ azconfig.json
 ./azconfig.json
 .vscode/*
 ./.vscode/*
+go-anf
