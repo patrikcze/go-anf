@@ -1,2 +1,4 @@
 azconfig.json
 ./azconfig.json
+.vscode/*
+./.vscode/*
